@@ -1,2 +1,4 @@
 PA_cache/
 rsconnect/
+.RData
+.Rhistory

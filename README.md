@@ -1,2 +1,2 @@
 # PracticalML
-John Hopkins Practical Machine Learning Coursera course final assignment
+Johns Hopkins University Practical Machine Learning Coursera course final assignment.
